@@ -20,7 +20,7 @@ add the following line to the dependencies in your `Package.swift` file:
 
 Go to your class, where you wanted to implement the Video/Audio/Chat feature, import the libraray
 ```swift
-    import Enx_UIKit_iOS
+        import Enx_UIKit_iOS
 ```
 Create the objects for required SDK classes
 
