@@ -16,7 +16,6 @@ add the following line to the dependencies in your `Package.swift` file:
 ```swift
 .package(url: "https://github.com/EnableX/Enx_UIKit_iOS.git", from: "1.0.0"),
 ```
-
 ## How to use
 
 Go to your class, where you wanted to implement the Video/Audio/Chat feature, import the libraray
@@ -29,7 +28,6 @@ Create the objects for required SDK classes
         var enxView : EnxVideoViewClass!
 ```
 This is the object of EnxVideoViewClass class. Its will give a UIView.
-
 
 **How to use Enx_UIKit_iOS SDK?**   
 You need to initiate Enx_UIKit_iOS class as code given below - 
@@ -52,7 +50,6 @@ You need to initiate Enx_UIKit_iOS class as code given below -
 
         func connect(toRoom enxRoom: EnxRoom?, roomMetadata: [String : Any]?)
         
-
 - On failing to connect with Enablex Room, following callback are received:
 
         func connectError(reason: [Any]?)
@@ -61,6 +58,4 @@ You need to initiate Enx_UIKit_iOS class as code given below -
 
         func disconnect(response: [Any]?)
 
-
-    
 **Note:** Developers must implement the above mentioned Callbacks as they are mandatory to handle. All other Callbacks, given in Developer Documentation; are optional and may be implemented if needed.
