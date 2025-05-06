@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Enx_UIKit_iOS",
-            url: "https://developer.enablex.io/downloads/ui-kit/ios/Enx_UIKit_iOS.xcframework_2.1.8.zip",
-            checksum: "6bf0188fe3b7dd83db1b8d4290d0b6885c94ee15bc41a84919e9261db18540b2"
+            url: "https://developer.enablex.io/downloads/ui-kit/ios/Enx_UIKit_iOS.xcframework_2.1.10.zip",
+            checksum: "6d04256af222912d9be5d642cfce67c48f78a3a80e849d1e4540e9f1158d7d94"
         ),
         .binaryTarget(
             name: "EnxRTCiOS",
