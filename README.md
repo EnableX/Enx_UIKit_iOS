@@ -14,7 +14,7 @@ To use the `Enx_UIKit_iOS` library in a SwiftPM project,
 add the following line to the dependencies in your `Package.swift` file:
 
 ```swift
-.package(url: "https://github.com/EnableX/Enx_UIKit_iOS.git", from: "2.1.11"),
+.package(url: "https://github.com/EnableX/Enx_UIKit_iOS.git", from: "2.1.12"),
 ```
 ## How to use
 
