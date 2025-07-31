@@ -6,7 +6,7 @@
       "location" : "https://github.com/EnableX/EnablexWebRTC.git",
       "state" : {
         "revision" : "cf2162e19bcfb1dc0719ae356e35c339fcccb5ac",
-        "version" : "2.0.0"
+        "version" : "2.0.1"
       }
     },
     {
@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/EnableX/EnxRTCiOS.git",
       "state" : {
-        "revision" : "34d22321e8e1b7c9c81dd918ddcdba6ff68d5be3",
-        "version" : "3.1.1"
+        "revision" : "42c5aecb3e218781439e6166d7fa1b5495ebf29c",
+        "version" : "3.1.2"
       }
     }
   ],
